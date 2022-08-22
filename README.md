@@ -14,4 +14,4 @@
 
 7. test using  `firebase emulators: start`
 
-8. firebase deploy
+8. deploy using `firebase deploy`
